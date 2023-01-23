@@ -1,4 +1,4 @@
-<img align="right" height="400em" src=https://raw.githubusercontent.com/gist/irwaynetaborda/ec62d754f799d32af8586407eb31745c/raw/e599f50623e8274c8dd86f446ffb67be54eecf59/githubcard.svg/>
+<img align="right" height="400em" margin-right= "50px" src=https://raw.githubusercontent.com/gist/irwaynetaborda/ec62d754f799d32af8586407eb31745c/raw/e599f50623e8274c8dd86f446ffb67be54eecf59/githubcard.svg/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Irwayne Lopes Taborda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irwaynetaborda&color=yellow" alt="Profile views" /> </p>
 
