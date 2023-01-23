@@ -31,7 +31,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 -->
 
-## Social
+## 💻 &nbsp;Social
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/IrwayneTaborda" target="_blank">
