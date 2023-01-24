@@ -11,7 +11,7 @@
 - 💻 **I like movies, series and games**.
 
 <div align="left">  
-  <img width="38%" height="150px" src="https://github-readme-stats.vercel.app/api?username=irwaynetaborda&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="38%" height="150px" src="https://github-readme-stats.vercel.app/api?username=irwaynetaborda&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Irwayne Lopes Taborda github stats" />
   <img width="32%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwaynetaborda&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
